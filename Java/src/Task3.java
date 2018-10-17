@@ -20,11 +20,11 @@ public class Task3 {
         if (matches1) {
             System.out.println("elephant"); // elePHANT
         } else if (matches2) {
-            System.out.println("field");   // only small letters
+            System.out.println("field");   // kamendasd only small letters
         } else if (matches3) {
-            System.out.println("constant");  // only big letters
+            System.out.println("constant");  //ASDFG  only big letters
         } else if (matches4) {
-            System.out.println("pascal");   // First big letter after only small letters
+            System.out.println("pascal");   //Kamennn    First big letter after only small letters
         } else {
             System.out.println("mismatch");   // SNAke
         }
